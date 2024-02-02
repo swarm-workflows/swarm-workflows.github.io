@@ -1,0 +1,80 @@
+- name: Ewa Deelman
+  degree: Ph.D.
+  email: deelman@isi.edu
+  photo: deelman.jpg
+  institution: USC
+
+- name: Prasanna Balaprakash
+  degree: Ph.D.
+  email: pbalapra@ornl.gov
+  photo: balaprakash.png
+  institution: ORNL
+
+- name: Anirban Mandal
+  degree: Ph.D.
+  email: anirban@renci.org
+  photo: mandal.jpg
+  institution: RENCI
+
+- name: Mariam Kiran
+  degree: Ph.D.
+  email: kiranm@ornl.gov
+  photo: kiran.jpg
+  institution: ORNL
+
+- name: Kesheng (John) Wu
+  degree: Ph.D.
+  email: kwu@lbl.gov
+  institution: LBL
+
+- name: Krishnan Raghavan
+  degree: Ph.D.
+  email: kraghavan@anl.gov
+  photo: raghavan.jpg
+  institution: ANL
+
+- name: Franck Cappello
+  degree: Ph.D.
+  email: cappello@mcs.anl.gov
+  institution: ANL
+
+- name: Imtiaz Mahmud
+  degree: Ph.D.
+  email: imahmud@lbl.gov
+  institution: LBL
+
+- name: Hongwei Jin
+  degree: Ph.D.
+  email: jinh@anl.gov
+  institution: ANL
+
+- name: Cong Wang
+  degree: Ph.D.
+  email: cwang@renci.org
+  photo: wang.jpg
+  institution: RENCI
+
+- name: Komal Thareja
+  email: kthare10@renci.org
+  photo: thareja.jpg
+  institution: RENCI
+
+- name: Brett Eiffert
+  email: eiffertbc@ornl.gov
+  institution: ORNL
+
+- name: George Papadimitriou
+  degree: Ph.D.
+  email: georgpap@isi.edu
+  photo: papadimitriou.jpg
+  institution: USC
+
+- name: Pawel Zuk
+  degree: Ph.D.
+  email: pawelzuk@isi.edu
+  photo: zuk.png
+  institution: USC
+
+- name: Divyansh Sharma
+  email: sharmadi@isi.edu
+  institution: USC

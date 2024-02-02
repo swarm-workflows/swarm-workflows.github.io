@@ -1,0 +1,7 @@
+<footer class="border-top d-flex flex-wrap justify-content-between mt-5">
+    {{ range .Site.Param "logo" }}
+    <div class="align-self-end p-2">
+        <a href="{{ .link }}"><img src="{{ absURL .image }}" class="bottom-logo" /></a>
+    </div>
+    {{ end }}
+</footer>

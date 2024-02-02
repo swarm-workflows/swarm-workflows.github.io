@@ -1,0 +1,27 @@
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
+    {{ range $.Site.Data.people }}
+    <div class="col">
+        <div class="card">
+            
+            <img
+                {{ if .photo }}
+                src="/people/{{ .photo }}"
+                {{ else }}
+                src="/people/nophoto.svg"
+                {{ end }}
+                class="card-img-top" alt="{{ .name }}" />
+            <div class="card-body">
+                <h5 class="card-title">{{ .name }}{{ if .degree }}, {{ .degree}} {{ end }}</h5>
+                <div class="d-flex">
+                    <div class="col">{{ .institution }}</div>
+                    {{ if .email }}
+                    <div class="float-right">
+                        <a href="mailto:{{ .email }}"><i class="bi bi-envelope"></i></a>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+  </div>
+  {{ end }}
+</div>

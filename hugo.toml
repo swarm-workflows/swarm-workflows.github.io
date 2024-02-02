@@ -1,0 +1,33 @@
+baseURL = 'https://swarm-workflows.org/'
+languageCode = 'en-us'
+title = 'SWARM: Scientific Workflow Applications on Resilient Metasystem'
+sectionPagesMenu = 'main'
+
+[menus]
+[[menus.main]]
+    name = 'Code'
+    url = 'https://github.com/swarm-workflows'
+
+[[params.logo]]
+image = "/logo/VsoE_CS_Form_Horiz_CardonWhite-RGB-45.jpg"
+link = "https://isi.edu"
+
+[[params.logo]]
+image = "/logo/renci-logo.png"
+link = "https://renci.org"
+
+[[params.logo]]
+image = "/logo/Argonne_cmyk_black.svg"
+link = "https://www.anl.gov"
+
+[[params.logo]]
+image = "/logo/5_BL_Horiz_Tile_rgb.png"
+link = "https://lbl.gov"
+
+[[params.logo]]
+image = "/logo/ORNL-Two-line-green.svg"
+link = "https://ornl.gov"
+
+[[params.logo]]
+image = "/logo/DOE_Color_Seal_Green_Logo_Clear_2860×719.png"
+link = "https://www.energy.gov"
