@@ -33,11 +33,22 @@
   photo: raghavan.jpg
   institution: ANL
 
+- name: Sheng Di
+  degree: Ph.D.
+  email: sdi1@anl.gov
+  institution: ANL
+
 - name: Franck Cappello
   degree: Ph.D.
   email: cappello@mcs.anl.gov
   photo: cappello.jpg
   institution: ANL
+
+- name: Zizhong Chen
+  degree: Ph.D.
+  email: chen@cs.ucr.edu
+  institution: UCR
+
 
 - name: Imtiaz Mahmud
   degree: Ph.D.
@@ -80,3 +91,18 @@
 - name: Divyansh Sharma
   email: sharmadi@isi.edu
   institution: USC
+
+- name: Shixun Wu
+  email: swu264@ucr.edu
+  institution: UCR
+
+- name: Erik Scott
+  email: escott@renci.org
+  institution: RENCI
+
+- name: Aiden Hamade
+  email: hamadeat@ornl.gov
+  institution: ORNL
+
+
+
