@@ -75,12 +75,14 @@
   email: eiffertbc@ornl.gov
   photo: eiffert.jpg
   institution: ORNL
+  alumni: true
 
 - name: George Papadimitriou
   degree: Ph.D.
   email: georgpap@isi.edu
   photo: papadimitriou.jpg
   institution: USC
+  alumni: true
 
 - name: Pawel Zuk
   degree: Ph.D.
@@ -91,6 +93,7 @@
 - name: Divyansh Sharma
   email: sharmadi@isi.edu
   institution: USC
+  alumni: true
 
 - name: Shixun Wu
   email: swu264@ucr.edu
