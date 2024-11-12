@@ -26,6 +26,7 @@
   degree: Ph.D.
   email: kwu@lbl.gov
   institution: LBL
+  photo: kwu.jpeg
 
 - name: Krishnan Raghavan
   degree: Ph.D.
@@ -37,6 +38,7 @@
   degree: Ph.D.
   email: sdi1@anl.gov
   institution: ANL
+  photo: sdi.jpeg
 
 - name: Franck Cappello
   degree: Ph.D.
@@ -48,17 +50,19 @@
   degree: Ph.D.
   email: chen@cs.ucr.edu
   institution: UCR
-
+  photo: zchen.jpeg
 
 - name: Imtiaz Mahmud
   degree: Ph.D.
   email: imahmud@lbl.gov
   institution: LBL
+  photo: imahmud.jpeg
 
 - name: Hongwei Jin
   degree: Ph.D.
   email: jinh@anl.gov
   institution: ANL
+  photo: jinh.jpeg
 
 - name: Cong Wang
   degree: Ph.D.
@@ -70,6 +74,11 @@
   email: kthare10@renci.org
   photo: thareja.jpg
   institution: RENCI
+
+- name: Hong-Jun Yoon
+  email: yoonh@ornl.gov
+  institution: ORNL
+  photo: yoonh.jpeg
 
 - name: Brett Eiffert
   email: eiffertbc@ornl.gov
@@ -94,18 +103,24 @@
   email: sharmadi@isi.edu
   institution: USC
   alumni: true
+  photo: sharma.jpg
 
 - name: Shixun Wu
   email: swu264@ucr.edu
   institution: UCR
+  photo: swu.png
 
 - name: Erik Scott
   email: escott@renci.org
   institution: RENCI
+  photo: erikscott.png
 
 - name: Aiden Hamade
   email: hamadeat@ornl.gov
   institution: ORNL
+  photo: ahamade.jpg
 
-
-
+- name: Suman Raj
+  email: sumanraj@isi.edu
+  institution: USC
+  photo: sumanraj.jpg
