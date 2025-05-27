@@ -1,0 +1,34 @@
+- title: "SWARM: Reimagining Scientific Workflow Management Systems in a Distributed World"
+  authors: "P. Balaprakash, K. Raghavan, F. Cappello, E. Deelman, A. Mandal, H. Jin, I. Mahmud, K. Thareja, S. Wu, P. Zuk, M. Kiran, Z. Chen, S. Di, and K. Wu"
+  venue: "International Journal of High Performance Computing Applications (IJHPCA), accepted, May 2025"
+  image: IJHPCA25-SWARM-Overview.jpeg
+
+- title: "A Greedy Consensus-based Approach to Distributed Job Selection: Toward Fully-decentralized Workload Management System"
+  authors: "K. Thareja, K. Raghavan, A. Mandal, P. Zuk, I. Mahmud, M. Kiran, and E. Deelman"
+  venue: "25th IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid'25), Tromso, Norway, accepted, May 2025"
+  image: CCCGrid25_Consensus.jpg
+
+- title: "DISTRI: Development and Integration of Simulation Tools for Resilient Infrastructure"
+  authors: "I. Mahmud, P. Zuk, C. Wang, M. Kiran, K. Wu, K. Thareja, K. Raghavan, A. Mandal, and E. Deelman"
+  venue: "2024 IEEE International Conference on Big Data workshop: 5th International Workshop on Big Data & AI Tools, Models, and Use Cases for Innovative Scientific Discovery (BTSD)"
+  image: BigData24_DISTRI.jpg
+  link: "https://ieeexplore.ieee.org/abstract/document/10825783"
+
+
+- title: "Network Testbed for Experimenting With Decentralized Federated Learning"
+  authors: "A. Mandal, K. Thareja, and P. Ruth"
+  venue: "Poster in 20th IEEE International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT 2024), Abu Dhabi, UAE, April 2024"
+  image: DCOSS_Testbed.jpg
+  link: "https://ieeexplore.ieee.org/abstract/document/10621528"
+
+- title: "SWARM: Scientific Workflow Applications on Resilient Metasystem"
+  authors: "Pawel Zuk, Hongwei Jin, Imtiaz Mahmud, Krishnan Raghavan, Komal Thareja, Shixun Wu, Prasanna Balaprakash, Franck Cappello, Zizhong Chen, Ewa Deelman, Sheng Di, Aiden Hamade, Mariam Kiran, Anirban Mandal, Erik Scott, Cong Wang, and John Wu"
+  venue: "Poster in 2024 IEEE/ACM International Conference for High Performance Computing, Networking, Storage, and Analysis (SC'24), Atlanta, GA, November 2024"
+  image: SC24_Swarm_Poster.jpg
+  link: "https://sc24.supercomputing.org/proceedings/poster/poster_files/post169s2-file3.pdf"
+
+- title: "DGRO: Diameter-Guided Ring Optimization for Integrated Research Infrastructure Membership"
+  authors: "S. Wu, K. Raghavan, S. Di, Z. Chen, and F. Cappello"
+  venue: "arXiv preprint arXiv:2410.11142, 2024"
+  image: SC25_DGRO.jpg
+  link: "https://arxiv.org/abs/2410.11142"
