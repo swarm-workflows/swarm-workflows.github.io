@@ -32,3 +32,9 @@
   venue: "arXiv preprint arXiv:2410.11142, 2024"
   image: SC25_DGRO.jpg
   link: "https://arxiv.org/abs/2410.11142"
+
+- title: "Evaluating the Efficacy of LLM-Based Reasoning for Multiobjective HPC Job Scheduling"
+  authors: "Jadhav, P., Jin, H., Deelman, E., & Balaprakash, P."  
+  venue: "arXiv preprint arXiv:2506.02025, 2025"  
+  image: scheduling_reasoning.jpg
+  link: "https://arxiv.org/abs/2506.02025"
