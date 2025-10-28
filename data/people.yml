@@ -16,17 +16,17 @@
   photo: mandal.jpg
   institution: RENCI
 
-- name: Mariam Kiran
-  degree: Ph.D.
-  email: kiranm@ornl.gov
-  photo: kiran.jpg
-  institution: ORNL
+# - name: Mariam Kiran
+#   degree: Ph.D.
+#   email: kiranm@ornl.gov
+#   photo: kiran.jpg
+#   institution: ORNL
 
-- name: Kesheng (John) Wu
-  degree: Ph.D.
-  email: kwu@lbl.gov
-  institution: LBL
-  photo: kwu.jpeg
+# - name: Kesheng (John) Wu
+#   degree: Ph.D.
+#   email: kwu@lbl.gov
+#   institution: LBL
+#   photo: kwu.jpeg
 
 - name: Krishnan Raghavan
   degree: Ph.D.
@@ -93,11 +93,11 @@
   institution: USC
   alumni: true
 
-- name: Pawel Zuk
-  degree: Ph.D.
-  email: pawelzuk@isi.edu
-  photo: zuk.png
-  institution: USC
+# - name: Pawel Zuk
+#   degree: Ph.D.
+#   email: pawelzuk@isi.edu
+#   photo: zuk.png
+#   institution: USC
 
 - name: Divyansh Sharma
   email: sharmadi@isi.edu
@@ -115,17 +115,27 @@
   institution: RENCI
   photo: erikscott.png
 
-- name: Aiden Hamade
-  email: hamadeat@ornl.gov
-  institution: ORNL
-  photo: ahamade.jpg
+# - name: Aiden Hamade
+#   email: hamadeat@ornl.gov
+#   institution: ORNL
+#   photo: ahamade.jpg
 
-- name: Suman Raj
-  email: sumanraj@isi.edu
-  institution: USC
-  photo: sumanraj.jpg
+# - name: Suman Raj
+#   email: sumanraj@isi.edu
+#   institution: USC
+#   photo: sumanraj.jpg
 
 - name: Prachi Jadhav
   email: jadhavpr@ornl.gov
   photo: prachij.jpg
   institution: ORNL
+
+- name: Fred Sutter
+  email: jadhavpr@ornl.gov
+  photo: Fred.png
+  institution: ORNL
+
+- name: Jean Luca Bez
+  email: jlbez@lbl.gov
+  photo: jlbez.jpg
+  institution: LBL
