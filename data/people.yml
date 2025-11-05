@@ -3,18 +3,21 @@
   email: deelman@isi.edu
   photo: deelman.jpg
   institution: USC
+  linkedin: linkedin.com/in/ewa-deelman-44533428
 
 - name: Prasanna Balaprakash
   degree: Ph.D.
   email: pbalapra@ornl.gov
   photo: balaprakash.png
   institution: ORNL
+  linkedin: https://www.linkedin.com/in/prasannaprakash/
 
 - name: Anirban Mandal
   degree: Ph.D.
   email: anirban@renci.org
   photo: mandal.jpg
   institution: RENCI
+  linkedin: https://www.linkedin.com/in/anirban-mandal-1176801/
 
 - name: Mariam Kiran
   degree: Ph.D.
@@ -35,24 +38,28 @@
   email: kraghavan@anl.gov
   photo: raghavan.jpg
   institution: ANL
+  linkedin: https://www.linkedin.com/in/krm9c/
 
 - name: Sheng Di
   degree: Ph.D.
   email: sdi1@anl.gov
   institution: ANL
   photo: sdi.jpeg
+  linkedin: https://www.linkedin.com/in/sheng-di-0b83a39/
 
 - name: Franck Cappello
   degree: Ph.D.
   email: cappello@mcs.anl.gov
   photo: cappello.jpg
   institution: ANL
+  linkedin: https://www.linkedin.com/in/franck-cappello-75828299/
 
 - name: Zizhong Chen
   degree: Ph.D.
   email: chen@cs.ucr.edu
   institution: UCR
   photo: zchen.jpeg
+  linkedin: https://www.linkedin.com/in/zizhong-chen-14b0a529/
 
 - name: Imtiaz Mahmud
   degree: Ph.D.
@@ -66,6 +73,7 @@
   email: jinh@anl.gov
   institution: ANL
   photo: jinh.jpeg
+  linkedin: https://www.linkedin.com/in/hongweijin/
 
 - name: Cong Wang
   degree: Ph.D.
@@ -77,11 +85,13 @@
   email: kthare10@renci.org
   photo: thareja.jpg
   institution: RENCI
+  linkedin: https://www.linkedin.com/in/komalthareja/
 
 - name: Hong-Jun Yoon
   email: yoonh@ornl.gov
   institution: ORNL
   photo: yoonh.jpeg
+  linkedin: https://www.linkedin.com/in/hong-jun-yoon-93425a11/
 
 - name: Brett Eiffert
   email: eiffertbc@ornl.gov
@@ -113,6 +123,7 @@
   email: swu264@ucr.edu
   institution: UCR
   photo: swu.png
+  linkedin: https://www.linkedin.com/in/shixun-wu-20b1b1236/
 
 - name: Erik Scott
   email: escott@renci.org
@@ -140,8 +151,10 @@
   email: jadhavpr@ornl.gov
   photo: Fred.png
   institution: ORNL
+  linkedin: https://www.linkedin.com/in/frederic-suter-1656455/
 
 - name: Jean Luca Bez
   email: jlbez@lbl.gov
   photo: jlbez.jpg
   institution: LBL
+  linkedin: https://www.linkedin.com/in/jeanbez/

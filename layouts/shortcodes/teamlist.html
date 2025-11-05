@@ -15,11 +15,14 @@
                 <h5 class="card-title">{{ .name }}{{ if .degree }}, {{ .degree}} {{ end }}</h5>
                 <div class="d-flex">
                     <div class="col">{{ .institution }}</div>
-                    {{ if .email }}
                     <div class="float-right">
-                        <a href="mailto:{{ .email }}"><i class="bi bi-envelope"></i></a>
+                        {{ if .email }}
+                        <a href="mailto:{{ .email }}" class="me-2" title="Email"><i class="bi bi-envelope"></i></a>
+                        {{ end }}
+                        {{ if .linkedin }}
+                        <a href="{{ .linkedin }}" target="_blank" rel="noopener noreferrer" title="LinkedIn"><i class="bi bi-linkedin"></i></a>
+                        {{ end }}
                     </div>
-                    {{ end }}
                 </div>
             </div>
         </div>
