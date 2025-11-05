@@ -16,6 +16,13 @@
 /* 团队成员照片样式 */
 .card-img-top {
     width: 50%;
-    /* height: 250px; */
     object-fit: cover;
+    display: block;
+    margin: 1rem auto; /* 居中显示，上下留白 */
+}
+
+/* 可选：让卡片本身也变小一些 */
+.teamlist .card {
+    max-width: 300px; /* 限制卡片最大宽度 */
+    margin: 0 auto; /* 卡片居中 */
 }
