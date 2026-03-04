@@ -80,6 +80,7 @@
   email: cwang@renci.org
   photo: wang.jpg
   institution: RENCI
+  alumni: true
 
 - name: Komal Thareja
   email: kthare10@renci.org
@@ -92,6 +93,7 @@
   institution: ORNL
   photo: yoonh.jpeg
   linkedin: https://www.linkedin.com/in/hong-jun-yoon-93425a11/
+  alumni: true
 
 - name: Brett Eiffert
   email: eiffertbc@ornl.gov
@@ -158,3 +160,15 @@
   photo: jlbez.jpg
   institution: LBL
   linkedin: https://www.linkedin.com/in/jeanbez/
+
+- name: Chandreyee Bhowmick
+  email: handreyee.bhowmick@Vanderbilt.Edu
+  photo: bhowmick.jpg
+  institution: ORNL
+  linkedin: https://www.linkedin.com/in/chandreyee-bhowmick-587a07183
+
+- name: Devesh Tiwari
+  email: d.tiwari@northeastern.edu
+  institution: Northeastern University
+  photo: tiwari-d.jpg
+  linkedin: https://www.linkedin.com/in/devesh-tiwari-3431572
